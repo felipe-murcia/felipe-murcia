@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felipe-murcia
-- 👀 I’m interested in technologiea
-- 🌱 I’m currently learning Engineer softwarw
+- 👀 I’m interested in technologies
+- 🌱 I’m currently learning Engineer software
 
 <!---
 felipe-murcia/felipe-murcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
